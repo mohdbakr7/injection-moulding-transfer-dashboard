@@ -62,4 +62,4 @@ The threshold charts are a **post-hoc view of test results** at several threshol
 
 These datasets were created for **personal testing of the modelling method**. Their results are not independent physical experiments, evidence that a particular model will work on a factory line, or a replacement for measured validation data. This static package contains the dashboard and saved summary results, but not the training scripts, full synthetic datasets, or original row-level Moldflow and ProBayes files.
 
-The interactive dashboard is `index.html`. Open it in a browser after downloading the repository, or use the GitHub Pages link if the repository has been published as a site. Some interface libraries and fonts load from public CDNs, so an internet connection is needed for the intended appearance and behavior.
+To view the dashboard, download this repository as a ZIP file, extract it, and open `index.html` in a browser. GitHub's file preview displays the HTML code; it does not run the dashboard. An internet connection is needed because some interface libraries and fonts load from public CDNs.
